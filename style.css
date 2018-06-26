@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: #fff;
+    box-shadow: 0 3px 10px #c4c4c4;
+    height: 50px;
+}
+
+.content-left {
+    width: 45%;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 3px 10px #c4c4c4;
+    height: 50px;
+}
+
+.content-right {
+    width: 45%;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 3px 10px #c4c4c4;
+    height: 50px;
+}
+
